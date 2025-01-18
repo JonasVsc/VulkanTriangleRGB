@@ -1,4 +1,4 @@
-# Vulkan Triangle Renderer with Dynamic Vertex Colors
+# Vulkan Triangle Renderer with Dynamic Rendering
 This project demonstrates how to render a triangle using Vulkan and allows for dynamic vertex color changes via ImGui.
 
 ## Libraries Used
